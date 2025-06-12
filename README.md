@@ -110,7 +110,7 @@
 ---------
 
 ### 📫 Contact me via:
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/vaiebhav-shreevarshan-r-47b400326/))
+- [LinkedIn](https://www.linkedin.com/in/vaiebhav-shreevarshan-r-47b400326/)
 - [Email](mailto:vaiebhav2007@gmail.com)
 
 ---------
