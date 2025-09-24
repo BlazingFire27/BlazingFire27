@@ -1,7 +1,12 @@
 # Hi there 👋 I'm BlazingFire27- 👀 I’m passionate about Computer Software and Hardware
-🎓 I’m currently an **ECE undergraduate at BITS Pilani Goa Campus**  
-🤖 Passionate about **Artificial Intelligence and its diverse Applications**, with a growing interest in both **Software & Hardware**  
-💡 Exploring: **Machine Learning | Deep Learning | Reinforcement Learning | NLP | DSA**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlazingFire27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazingFire27&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+🎓 I’m currently an **ECE undergraduate at BITS Pilani Goa Campus** 🤖 Passionate about **Artificial Intelligence and its diverse Applications**, with a growing interest in both **Software & Hardware** 💡 Exploring: **Machine Learning | Deep Learning | Reinforcement Learning | NLP | DSA**
 
 ## 🌱 CURRENTLY LEARNING
 - NLP
