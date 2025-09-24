@@ -1,11 +1,5 @@
 # Hi there 👋 I'm BlazingFire27- 👀 I’m passionate about Computer Software and Hardware
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlazingFire27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazingFire27&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
 🎓 I’m currently an **ECE undergraduate at BITS Pilani Goa Campus** 🤖 Passionate about **Artificial Intelligence and its diverse Applications**, with a growing interest in both **Software & Hardware** 💡 Exploring: **Machine Learning | Deep Learning | Reinforcement Learning | NLP | DSA**
 
 ## 🌱 CURRENTLY LEARNING
@@ -110,6 +104,14 @@
   <a href="https://en.wikipedia.org/wiki/Open_source_intelligence" target="_blank">
     <img src="https://img.shields.io/badge/-OSINT-0000FF?style=flat&logo=searchengin&logoColor=white" alt="OSINT"/>
   </a>
+</p>
+
+---------
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BlazingFire27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazingFire27&layout=donut&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---------
