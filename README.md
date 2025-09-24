@@ -1,6 +1,6 @@
 # Hi there 👋 I'm BlazingFire27- 👀 I’m passionate about Computer Software and Hardware
 
-🎓 I’m currently an **ECE undergraduate at BITS Pilani Goa Campus** 🤖 Passionate about **Artificial Intelligence and its diverse Applications**, with a growing interest in both **Software & Hardware** 💡 Exploring: **Machine Learning | Deep Learning | Reinforcement Learning | NLP | DSA**
+🎓 I’m currently an **ECE undergraduate at BITS Pilani Goa Campus** <br/>🤖 Passionate about **Artificial Intelligence and its diverse Applications**, with a growing interest in both **Software & Hardware** <br/>💡 Exploring: **Machine Learning | Deep Learning | Reinforcement Learning | NLP | DSA**
 
 ## 🌱 CURRENTLY LEARNING
 - NLP
@@ -14,8 +14,8 @@
 |---|---|
 | **DSA+SYSTEM** | <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/></a> <a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/></a> |
 | **AI** | <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/></a> |
-| **Mobile Apps** | <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/></a> <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/></a> |
-| **Web+BACKEND** | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></a> |
+| **Mobile APPS** | <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/></a> <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/></a> |
+| **WEB+BACKEND** | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></a> |
 | **AVIONICS** | <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/></a> |
 
 ---
