@@ -127,13 +127,6 @@
 
 ---------
 
-## **STATS**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlazingFire27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
-
----------
-
 ## **MOST USED LANGUAGES**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazingFire27&langs_count=8&theme=tokyonight"/>
