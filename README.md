@@ -134,14 +134,14 @@
 
 ---------
 
-### 📫 Contact me via:
-- [LinkedIn](https://www.linkedin.com/in/vaiebhav-shreevarshan-r-47b400326/)
-- [Email](mailto:vaiebhav2007@gmail.com)
+- 💞️ I’m looking to collaborate on AI, Machine Learning, Deep Learning, Reinforcement Learning (RL), Natural Language Processing (NLP), Data Structures & Algorithms (DSA)
 
 ---------
 
-- 💞️ I’m looking to collaborate on AI, Machine Learning, Deep Learning, Reinforcement Learning (RL), Natural Language Processing (NLP), Data Structures & Algorithms (DSA)
-
+### 📫 Contact me via:
+- [LinkedIn](https://www.linkedin.com/in/vaiebhav-shreevarshan-r-47b400326/)
+- [Email](mailto:vaiebhav2007@gmail.com)
+- 
 ---------
 
 ✨ Always learning.
