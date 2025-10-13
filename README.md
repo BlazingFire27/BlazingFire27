@@ -1,4 +1,4 @@
-# Hi there 👋 I'm BlazingFire27- 👀 I’m passionate about Computer Software and Hardware
+# Hello there 👋 I'm BlazingFire27- 👀 I’m passionate about Computer Software and Hardware
 
 🎓 I’m currently an **ECE undergraduate at BITS Pilani Goa Campus** <br/>🤖 Passionate about **Artificial Intelligence and its diverse Applications**, with a growing interest in both **Software & Hardware** <br/>💡 Exploring: **Machine Learning | Deep Learning | Reinforcement Learning | NLP | DSA**
 
