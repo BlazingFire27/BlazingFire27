@@ -2,6 +2,9 @@
 
 🎓 I’m currently an **ECE undergraduate at BITS Pilani Goa Campus** <br/>🤖 Passionate about **Artificial Intelligence and its diverse Applications**, with a growing interest in both **Software & Hardware** <br/>💡 Exploring: **Machine Learning | Deep Learning | Reinforcement Learning | NLP | DSA**
 
+## MY WEBSITE
+- [PORTFOLIO_WEBSITE](https://vaiebhav.vercel.app/)
+
 ## 🌱 CURRENTLY LEARNING
 - NLP
 - Reinforcement Learning
