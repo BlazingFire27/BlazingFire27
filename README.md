@@ -7,6 +7,8 @@
 
 ## 🌱 CURRENTLY LEARNING
 - NLP
+- Generative AI
+- Multi Agentic Systems
 - Reinforcement Learning
 - DSA
 
