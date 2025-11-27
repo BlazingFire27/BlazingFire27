@@ -139,7 +139,7 @@
 
 ---------
 
-- 💞️ I’m looking to collaborate on AI, Machine Learning, Deep Learning, Reinforcement Learning (RL), Natural Language Processing (NLP), Data Structures & Algorithms (DSA)
+- 💞️ I’m looking to collaborate in domains related to Deep Learning, Natural Language Processing (NLP), Generative AI, Agentic Systems
 
 ---------
 
