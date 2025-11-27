@@ -9,7 +9,7 @@
 - NLP
 - Generative AI
 - Multi Agentic Systems
-- Reinforcement Learning
+- DevOps
 - DSA
 
 ---------
