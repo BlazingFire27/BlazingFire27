@@ -131,14 +131,14 @@
 </p>
 
 ---------
-
+<!--
 ## **MOST USED LANGUAGES**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazingFire27&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---------
-
+-->
 - 💞️ I’m looking to collaborate in domains related to Deep Learning, Natural Language Processing (NLP), Generative AI, Agentic Systems
 
 ---------
