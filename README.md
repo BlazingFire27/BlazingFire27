@@ -14,15 +14,28 @@ GenAI • Agentic systems • Rocketry Avionics
 ### 📫 Contact me via:
 <a href="https://www.linkedin.com/in/vaiebhav-shreevarshan-r-47b400326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:vaiebhav2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://vaiebhav.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=About.me&logoColor=black">
+</a>
 
-## DAILY DEV
-- Generative AI
-- Multi Agentic Systems
-- Rocketry Avionics
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h2>🔗 DAILY DEV</h2>
+<hr>
+<div>🟡&nbsp;Generative AI</div>
+<div>🟡&nbsp;Multi&nbsp;Agentic&nbsp;Systems</div>
+<div>🟡&nbsp;Rocketry Avionics</div>
+</td>
 
-## Skill building
- - DSA
- - RL
+<td width="50%" valign="top">
+<h2>🔗 Skill&nbsp;Building</h2>
+<hr>
+<div>🟡&nbsp;DSA</div>
+<div>🟡&nbsp;RL</div>
+</td>
+</tr>
+</table>
 
 ---------
 ## 🖥️ **Languages**
