@@ -1,16 +1,27 @@
-# Hello there 👋 I'm BlazingFire27- 👀 I’m passionate about Computer Software and Hardware
+<h1 align="center">Vaiebhav Shreevarshan R</h1>
+<p align="center">
+GenAI • Agentic systems • Rocketry Avionics
+</p>
 
-🎓 I’m currently an **ECE undergraduate at BITS Pilani Goa Campus** <br/>🤖 Passionate about **Artificial Intelligence and its diverse Applications**, with a growing interest in both **Software & Hardware** <br/>💡 Exploring: **Deep Learning | Reinforcement Learning | Generative AI | DSA**
+---------
+
+## Hello there 👋 I'm BlazingFire27 <br> I’m passionate about Computer Software and Hardware
+
+--> I’m currently an **ECE undergraduate at BITS Pilani Goa Campus** <br/>
+--> Passionate about **Artificial Intelligence and its diverse Applications**, with a growing interest in both **Software & Hardware** <br/>
+--> Exploring: **Deep Learning | Reinforcement Learning | Generative AI | DSA**
 
 ## MY WEBSITE
 - [PORTFOLIO_WEBSITE](https://vaiebhav.vercel.app/)
 
-## 🌱 CURRENTLY LEARNING
-- NLP
+## DAILY DEV
 - Generative AI
 - Multi Agentic Systems
-- DevOps
-- DSA
+- Rocketry Avionics
+
+## Skill building
+ - DSA
+ - RL
 
 ---------
 ## 🖥️ **Languages**
