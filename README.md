@@ -18,20 +18,20 @@ AI Research • Semiconductor AI • Rocketry Avionics
   <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=About.me&logoColor=black">
 </a>
 
-<table width="100%">
+<table>
   <tr>
     <td valign="top">
-      <h2>🔗 Daily&nbsp;Dev</h2>
+      <h2>🔗 Daily Dev</h2>
       <hr>
-      🟡&nbsp;Generative&nbsp;AI<br>
-      🟡&nbsp;Multi&nbsp;Agentic&nbsp;Systems<br>
-      🟡&nbsp;Rocketry&nbsp;Avionics
+      🟡 Generative AI<br>
+      🟡 Multi&nbsp;Agentic&nbsp;Systems<br>
+      🟡 Rocketry Avionics
     </td>
     <td valign="top">
-      <h2>🔗 Skill&nbsp;Building</h2>
+      <h2>🔗 Skill Building</h2>
       <hr>
-      🟡&nbsp;DSA<br>
-      🟡&nbsp;RL
+      🟡 DSA<br>
+      🟡 RL
     </td>
   </tr>
 </table>
