@@ -1,6 +1,6 @@
 <h1 align="center">Vaiebhav Shreevarshan R</h1>
 <p align="center">
-GenAI • Agentic systems • Rocketry Avionics
+AI Research • Semiconductor AI • Rocketry Avionics
 </p>
 
 ---------
@@ -8,7 +8,9 @@ GenAI • Agentic systems • Rocketry Avionics
 ## Hello there 👋 I'm BlazingFire27 <br> I’m passionate about Computer Software and Hardware
 
 --> I’m currently an **ECE undergraduate at BITS Pilani Goa Campus** <br/>
---> Passionate about **Artificial Intelligence and its diverse Applications**, with a growing interest in both **Software & Hardware** <br/>
+--> Currently Project Lead at <a href="https://www.linkedin.com/company/project-rocketry/" target="_blank">
+  <img src="https://img.shields.io/badge/Project%20Rocketry-383838?style=flat&logo=rocket&logoColor=white" alt="Project Rocketry"/>
+</a><br/>
 --> Personal Website: [PORTFOLIO_WEBSITE](https://vaiebhav.vercel.app/)
 
 ### 📫 Contact me via:
@@ -21,7 +23,7 @@ GenAI • Agentic systems • Rocketry Avionics
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h2>🔗 DAILY DEV</h2>
+<h2>🔗 Daily Dev</h2>
 <hr>
 <div>🟡&nbsp;Generative AI</div>
 <div>🟡&nbsp;Multi&nbsp;Agentic&nbsp;Systems</div>
@@ -38,7 +40,7 @@ GenAI • Agentic systems • Rocketry Avionics
 </table>
 
 ---------
-## 🖥️ **Languages**
+## 🖥️ **Languages and Tools**
 
 | Category | Languages |
 |---|---|
@@ -46,7 +48,8 @@ GenAI • Agentic systems • Rocketry Avionics
 | **AI** | <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/></a> |
 | **Mobile APPS** | <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/></a> <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/></a> |
 | **WEB+BACKEND** | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></a> |
-| **AVIONICS** | <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/></a> |
+| **Avionics** | <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/></a> |
+| **General** | <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a> <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase"/></a>|
 
 ---
 ## 🔎  **Data Science Related Modules**
@@ -172,10 +175,16 @@ GenAI • Agentic systems • Rocketry Avionics
 
 ---------
 -->
-- 💞️ I’m looking to collaborate in domains related to Deep Learning, Natural Language Processing (NLP), Generative AI, Agentic Systems
 
----------
+## 💞️ I’m looking to contribute in domains related to:
+- AI research
+- Device Physics
+- Semiconductor+AI Research
+- Agentic Systems
+- App Development (Flutter | Firebase | MongoDB)
 
+<!-- ---------
+-->
 ---------
 
 ✨ Always learning.
