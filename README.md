@@ -79,9 +79,9 @@ GenAI • Agentic systems • Rocketry Avionics
   <a href="https://keras.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras"/>
   </a>
-  <a href="https://gym.openai.com/" target="_blank">
+  <!-- <a href="https://gym.openai.com/" target="_blank">
     <img src="https://img.shields.io/badge/-OpenAI%20Gym-0A0A0A?style=flat&logo=openai&logoColor=white" alt="OpenAI Gym"/>
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -97,15 +97,19 @@ GenAI • Agentic systems • Rocketry Avionics
   <a href="https://www.langchain.com/" target="_blank">
     <img src="https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
   </a>
-  <a href="https://www.nltk.org/" target="_blank">
+  <a href="https://www.langchain.com/langgraph" target="_blank">
+  <img src="https://img.shields.io/badge/-LangGraph-000000?style=flat&logo=langchain&logoColor=white" alt="LangGraph"/>
+</a>
+  <a href="https://www.ibm.com/watsonx/watsonx-ai" target="_blank">
+    <img src="https://img.shields.io/badge/watsonx.ai-0530AD?style=flat&logo=ibm&logoColor=white" alt="Watsonx.ai"/>
+  </a>
+    <!-- <a href="https://www.nltk.org/" target="_blank">
     <img src="https://img.shields.io/badge/-NLTK-CC0000?style=flat&logo=nltk&logoColor=white" alt="NLTK"/>
   </a>
   <a href="https://spacy.io/" target="_blank">
     <img src="https://img.shields.io/badge/-SpaCy-000000?style=flat&logo=spaCy&logoColor=white" alt="SpaCy"/>
-  </a>
-  <a href="https://www.ibm.com/watsonx/watsonx-ai" target="_blank">
-    <img src="https://img.shields.io/badge/watsonx.ai-0530AD?style=flat&logo=ibm&logoColor=white" alt="Watsonx.ai"/>
-  </a>
+  </a> -->
+
 </p>
 
 ---
@@ -124,12 +128,13 @@ GenAI • Agentic systems • Rocketry Avionics
   </a>
 </p>
 
+<!--
 ---
 
 ## 📚 **Cybersecurity Knowledge**
 
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/Cryptography" target="_blank">
+   <a href="https://en.wikipedia.org/wiki/Cryptography" target="_blank">
     <img src="https://img.shields.io/badge/-Cryptography-000000?style=flat&logo=keybase&logoColor=white" alt="Cryptography"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Computer_security" target="_blank">
@@ -137,9 +142,9 @@ GenAI • Agentic systems • Rocketry Avionics
   </a>
   <a href="https://en.wikipedia.org/wiki/Open_source_intelligence" target="_blank">
     <img src="https://img.shields.io/badge/-OSINT-0000FF?style=flat&logo=searchengin&logoColor=white" alt="OSINT"/>
-  </a>
+  </a> 
 </p>
-
+-->
 ---
 
 ## 🚀  **Avionics Knowledge**
