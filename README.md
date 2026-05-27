@@ -50,7 +50,7 @@ AI Research • Semiconductor AI • Rocketry Avionics
 | **General** | <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/></a> <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase"/></a>|
 
 ---
-## 🤖 **ML/DL Frameworks**
+## 🤖 **ML/DL Ecosystem**
 
 <p align="left">
   <a href="https://pytorch.org/" target="_blank">
@@ -72,7 +72,7 @@ AI Research • Semiconductor AI • Rocketry Avionics
 
 ---
 
-## 🤖 **GenAI/NLP Frameworks**
+## 🤖 **GenAI/NLP Ecosystem**
 <p align="left">
   <a href="https://huggingface.co/" target="_blank">
     <img src="https://img.shields.io/badge/-HuggingFace-FF3C00?style=flat&logo=huggingface&logoColor=white" alt="HuggingFace"/>
@@ -99,7 +99,7 @@ AI Research • Semiconductor AI • Rocketry Avionics
 </p>
 
 ---
-## 🔎  **Data Science Frameworks**
+## 🔎  **Data Science Ecosystem**
 
 <p align="left">  
   <a href="https://numpy.org/" target="_blank">
