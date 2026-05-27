@@ -13,7 +13,7 @@ AI Research • Semiconductor AI • Rocketry Avionics
 
 ### 📫 Contact me via:
 <a href="https://www.linkedin.com/in/vaiebhav-shreevarshan-r-47b400326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:vaiebhav2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:vaiebhav2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C71610?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://vaiebhav.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=About.me&logoColor=black">
 </a>
