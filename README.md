@@ -20,18 +20,18 @@ AI Research • Semiconductor AI • Rocketry Avionics
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h2>🔗 Daily Dev</h2>
+    <td valign="top">
+      <h2>🔗 Daily&nbsp;Dev</h2>
       <hr>
-      🟡 Generative AI<br>
-      🟡 Multi Agentic Systems<br>
-      🟡 Rocketry Avionics
+      🟡&nbsp;Generative&nbsp;AI<br>
+      🟡&nbsp;Multi&nbsp;Agentic&nbsp;Systems<br>
+      🟡&nbsp;Rocketry&nbsp;Avionics
     </td>
-    <td width="50%" valign="top">
-      <h2>🔗 Skill Building</h2>
+    <td valign="top">
+      <h2>🔗 Skill&nbsp;Building</h2>
       <hr>
-      🟡 DSA<br>
-      🟡 RL
+      🟡&nbsp;DSA<br>
+      🟡&nbsp;RL
     </td>
   </tr>
 </table>
