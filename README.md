@@ -128,6 +128,9 @@
   <a href="https://www.kicad.org/" target="_blank">
     <img src="https://img.shields.io/badge/KiCad-314165?style=flat&logo=kicad&logoColor=white" alt="KiCad"/>
   </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
+  </a>
 </p>
 
 ---------
