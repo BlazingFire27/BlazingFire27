@@ -9,10 +9,11 @@ GenAI • Agentic systems • Rocketry Avionics
 
 --> I’m currently an **ECE undergraduate at BITS Pilani Goa Campus** <br/>
 --> Passionate about **Artificial Intelligence and its diverse Applications**, with a growing interest in both **Software & Hardware** <br/>
---> Exploring: **Deep Learning | Reinforcement Learning | Generative AI | DSA**
+--> Personal Website: [PORTFOLIO_WEBSITE](https://vaiebhav.vercel.app/)
 
-## MY WEBSITE
-- [PORTFOLIO_WEBSITE](https://vaiebhav.vercel.app/)
+### 📫 Contact me via:
+<a href="https://www.linkedin.com/in/vaiebhav-shreevarshan-r-47b400326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:vaiebhav2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## DAILY DEV
 - Generative AI
@@ -156,10 +157,6 @@ GenAI • Agentic systems • Rocketry Avionics
 - 💞️ I’m looking to collaborate in domains related to Deep Learning, Natural Language Processing (NLP), Generative AI, Agentic Systems
 
 ---------
-
-### 📫 Contact me via:
-- [LinkedIn](https://www.linkedin.com/in/vaiebhav-shreevarshan-r-47b400326/)
-- [Email](mailto:vaiebhav2007@gmail.com)
 
 ---------
 
