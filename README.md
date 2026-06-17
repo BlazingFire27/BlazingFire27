@@ -157,7 +157,6 @@ AI Research • Semiconductor AI • Rocketry Avionics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazingFire27&langs_count=8&theme=tokyonight"/>
 </p>
-
 ---------
 -->
 
