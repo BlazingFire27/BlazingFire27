@@ -171,6 +171,4 @@ AI Research • Semiconductor AI • Rocketry Avionics
 -->
 ---------
 
-![](https://komarev.com)
-
 ✨ Always learning.
