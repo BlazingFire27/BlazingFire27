@@ -9,7 +9,8 @@ AI Research • Semiconductor AI • Rocketry Avionics
 
 --> I’m currently an **ECE undergraduate at BITS Pilani Goa Campus** <br/>
 --> Currently Project Lead at <a href="https://www.linkedin.com/company/project-rocketry/" target="_blank"> <img src="https://img.shields.io/badge/Project%20Rocketry%20Avionics-383838?style=flat&logo=rocket&logoColor=white" alt="Project Rocketry"/> </a> as part of <a href="https://www.linkedin.com/company/seds-celestia/" target="_blank"> <img src="https://img.shields.io/badge/SEDS%20Celestia-383838?style=flat&logo=rocket&logoColor=white" alt="Project Rocketry"/> </a> <br/>
---> Personal Website: [PORTFOLIO_WEBSITE](https://vaiebhav.vercel.app/)
+--> Personal Website: [PORTFOLIO_WEBSITE](https://vaiebhav.vercel.app/) <br/>
+--> Handout2Calendar (Deployed): https://handout2calendar.vercel.app/
 
 ### 📫 Contact me via:
 <a href="https://www.linkedin.com/in/vaiebhav-shreevarshan-r-47b400326/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
