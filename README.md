@@ -171,5 +171,8 @@ AI Research • Semiconductor AI • Rocketry Avionics
 <!-- ---------
 -->
 ---------
+[![Profile Views](https://komarev.com/ghpvc/?username=blazingfire27&style=for-the-badge&color=2a76ee)](https://github.com/blazingfire27)
+
+---------
 
 ✨ Always learning.
